@@ -2,3 +2,7 @@ This project aims to  analyze the beer dataset and provide  an insight with  res
 It uses  the concepts of corrplot, data cleaning , ETL,distribution visulization , frequency count in order to determine the most strongest beer, the most 
 reviewed beer styles  and how the sentiment of reviews  are related to the overall  rating.  Based on these inisghts it tells us about the beers that enjoy a high 
 rating and a high positive sentiment that can be recommened to future users 
+
+The project loads with  plotly graphs at the below  link 
+
+https://colab.research.google.com/drive/1epKmArYRj9KTbRZK2byX7CVZpwbCrvJh?usp=sharing
