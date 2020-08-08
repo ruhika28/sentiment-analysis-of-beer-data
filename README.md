@@ -29,8 +29,6 @@ Taste.
 Palette.
 Appearance.
 
-
-
 # prediction model creation
 Sentiment analysis helps us determine Samuel Adams Scotch Ale,Maudite,Abita Select Four Grain are the good beers based on the sentiment of the  reviews 
 It is  also required so that reviews can be used as a numeric factor to determine the overall rating 
@@ -38,7 +36,8 @@ train  test and validation sets are use to avoid  bias during model training ad 
 datetime is converted 
 beer style is column that cant be dropped as style influences appearences and overall  review so hence it is convrrted using one hot encoding 
 
-Linear regression is implemented and validation set is find out how accurate the  model is  and hyperparameter tuning is done to improve performance
+Linear regression is implemented and validation set is used to find out how accurate the  model is  and hyperparameter tuning is done to improve performance
+
 
 # Conclusion:
 It was found out that certain beer  styles along with  aroma , Taste , Palette and Appreance were the important factors, apart from that the error recorded was only  0.3 meaning the model was 70 % accurate 
