@@ -41,3 +41,6 @@ Linear regression is implemented and validation set is used to find out how accu
 
 # Conclusion:
 It was found out that certain beer  styles along with  aroma , Taste , Palette and Appreance were the important factors, apart from that the error recorded was only  0.3 meaning the model was 70 % accurate 
+
+#Code can be accessed through below link 
+https://colab.research.google.com/drive/1epKmArYRj9KTbRZK2byX7CVZpwbCrvJh?usp=sharing
